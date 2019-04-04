@@ -54,7 +54,7 @@ options = { name: 'is', duration: { enter: 500, leave: 200 } };
 適応されるタイミングは[Vueトランジションクラス](https://jp.vuejs.org/v2/guide/transitions.html#%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AF%E3%83%A9%E3%82%B9)を参照
 
 ---
-##Vue CLI npm script
+## Vue CLI npm script
 
 ### Compiles and hot-reloads for development
 ```
